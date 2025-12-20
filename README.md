@@ -14,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0182-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
