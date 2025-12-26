@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
