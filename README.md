@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1757-recyclable-and-low-fat-products) |
