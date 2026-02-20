@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0577-employee-bonus) |
+| [0596-classes-with-at-least-5-students](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
