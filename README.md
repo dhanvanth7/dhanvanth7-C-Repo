@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1075-project-employees-i) |
+| [1158-market-analysis-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1158-market-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1407-top-travellers) |
