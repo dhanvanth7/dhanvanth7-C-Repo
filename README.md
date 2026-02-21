@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1158-market-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1633-percentage-of-users-attended-a-contest) |
