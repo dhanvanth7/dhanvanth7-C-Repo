@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
