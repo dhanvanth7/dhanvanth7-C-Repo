@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0009-palindrome-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
