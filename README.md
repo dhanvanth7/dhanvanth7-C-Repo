@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+## Greedy
+|  |
+| ------- |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 <!---LeetCode Topics End-->
