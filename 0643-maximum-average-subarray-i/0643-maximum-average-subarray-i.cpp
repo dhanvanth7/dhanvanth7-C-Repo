@@ -4,7 +4,7 @@ public:
         double maxi;
         int l=0,sum=0;
         int r=k-1;
-        for(int i=0;i<k;i++){
+        for(int i=l;i<k;i++){
             sum+=nums[i];
         }
         maxi=sum;
