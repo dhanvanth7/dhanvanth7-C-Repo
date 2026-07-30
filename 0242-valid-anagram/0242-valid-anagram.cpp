@@ -6,11 +6,16 @@ public:
         }
         sort(s.begin(),s.end());
         sort(t.begin(),t.end());
+        int cnt=0;
         for(int i=0;i<s.size();i++){
-            if(s[i]!=t[i]){
-                return false;
+            if(s[i]==t[i]){
+                continue;
+            }
+            else{
+                cnt++;
             }
         }
-        return true;
+        if(cnt>0) return false;
+        else return true;
     }
 };
