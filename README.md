@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0643-maximum-average-subarray-i) |
+| [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 ## Game Theory
 |  |
 | ------- |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
