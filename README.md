@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0009-palindrome-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
