@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
