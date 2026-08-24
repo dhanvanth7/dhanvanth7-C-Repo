@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3884-first-matching-character-from-both-ends) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
