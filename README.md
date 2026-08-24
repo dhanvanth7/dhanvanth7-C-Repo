@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
