@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1480-running-sum-of-1d-array) |
+| [1550-three-consecutive-odds](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1550-three-consecutive-odds) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1672-richest-customer-wealth](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
