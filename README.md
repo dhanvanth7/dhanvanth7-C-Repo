@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
