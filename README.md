@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1480-running-sum-of-1d-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
 |  |
 | ------- |
