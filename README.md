@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0048-rotate-image) |
+| [0728-self-dividing-numbers](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
