@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
