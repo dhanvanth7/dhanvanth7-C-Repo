@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
