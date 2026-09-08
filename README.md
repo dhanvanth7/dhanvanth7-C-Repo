@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0877-stone-game) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Greedy
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
