@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1732-find-the-highest-altitude) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3794-reverse-string-prefix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
