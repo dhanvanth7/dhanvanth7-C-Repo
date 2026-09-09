@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3908-valid-digit-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
