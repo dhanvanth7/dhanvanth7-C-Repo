@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3668-restore-finishing-order](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
+| [3668-restore-finishing-order](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3945-digit-frequency-score) |
 ## Database
