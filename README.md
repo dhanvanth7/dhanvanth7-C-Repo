@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0724-find-pivot-index) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
