@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -248,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
