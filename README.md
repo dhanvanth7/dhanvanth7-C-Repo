@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3668-restore-finishing-order](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
