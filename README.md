@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [3668-restore-finishing-order](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0649-dota2-senate) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
