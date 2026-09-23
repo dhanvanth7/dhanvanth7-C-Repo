@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0649-dota2-senate) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Sliding Window
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
+| [0649-dota2-senate](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0649-dota2-senate) |
 ## Counting
 |  |
 | ------- |
