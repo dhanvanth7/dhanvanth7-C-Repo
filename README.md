@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/3498-reverse-degree-of-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
