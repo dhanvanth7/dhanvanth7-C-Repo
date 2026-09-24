@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2011-final-value-of-variable-after-performing-operations) |
