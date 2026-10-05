@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/2000-reverse-prefix-of-word) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/dhanvanth7/dhanvanth7-C-Repo/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
